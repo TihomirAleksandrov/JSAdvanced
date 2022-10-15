@@ -125,3 +125,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+UnitTestingAndErrorHandling-Exercise/node_modules.code-workspace
